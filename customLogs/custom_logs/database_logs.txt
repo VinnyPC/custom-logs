@@ -1,0 +1,2 @@
+wrapper retornou: {'status': 'success', 'data': [1, 2, 3]}
+wrapper retornou: {'status': 'success', 'data': [1, 2, 3]}
